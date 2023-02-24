@@ -20,6 +20,7 @@ public class Forloop {
 			for (int j=1; j<=31;j++) {
 				System.out.println("days:"+j);
 				System.out.println("days:"+j);
+				System.out.println("days:"+j);
 			}
 			
 		}
